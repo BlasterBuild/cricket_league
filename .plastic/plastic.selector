@@ -1,0 +1,4 @@
+repository "cricket_league@harsh9091@cloud"
+  path "/"
+    br "/main"
+    co "/main"
